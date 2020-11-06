@@ -10,6 +10,6 @@
 
 
 - 🔭 Working with Angular, Ionic and Flutter
-- 🌱 Learning more about UX/UI
+- 🌱 Learning more about CyberSecurity
 - 🎓 PUC Minas - Computer Science
 - 🏀 Playing basketball in my free time
