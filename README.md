@@ -5,11 +5,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bsantos-o/)](https://www.linkedin.com/in/bsantos-o/)
 ------
 
-<!--
-**ibryans/ibryans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+<!-- **ibryans/ibryans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 
-- 🔭 Working with Angular, Ionic and Flutter
-- 🌱 Learning more about CyberSecurity
+- 🔭 Experience with Angular, Ionic and Flutter
+- 🌱 Focused on Cybersecurity
 - 🎓 PUC Minas - Computer Science
-- 🏀 Playing basketball in my free time
+- 🏀 Basketball, Games and Books
