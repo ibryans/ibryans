@@ -7,8 +7,8 @@
 <!-- **ibryans/ibryans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 
-⚡ Developer, CTF Player and Machine Learning Researcher
+⚡ Front-End Developer
 
-💻 Looking for **Cybersecurity** jobs
+💻 Looking for **Sofware Development** jobs
 
 🎓 PUC Minas - Computer Science
