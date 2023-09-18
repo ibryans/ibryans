@@ -9,6 +9,6 @@
 
 ⚡ Front-End Developer and Deep Learning Researcher
 
-💻 Looking for **Sofware Development** jobs
+💻 Looking for **Software Development** jobs
 
 🎓 PUC Minas - Computer Science
