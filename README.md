@@ -7,7 +7,7 @@
 <!-- **ibryans/ibryans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 
-⚡ Full-Stack Developer, with experience in **Angular**, **Flutter**, **React**, **NestJS** and **MySQL**
+⚡ Full-Stack Developer, with experience in **Angular**, **Ionic**, **React**, React Native, **NestJS** and **MySQL**
 
 💻 Looking for **Software Development** jobs
 
